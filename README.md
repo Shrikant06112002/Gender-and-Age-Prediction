@@ -1,1 +1,2 @@
 # Gender-and-Age-Prediction
+Gender and Age Prediction is a machine learning project that utilizes computer vision techniques to predict the gender and age group of individuals from images. The model is trained on a large dataset of labeled facial images and uses deep learning algorithms to classify the gender (male/female) and predict age groups (e.g., 0-18, 19-35, etc.). This project demonstrates the application of convolutional neural networks (CNNs) for real-time facial attribute prediction.
